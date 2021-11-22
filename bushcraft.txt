@@ -1,0 +1,14 @@
+Pem repen = 6 p.p
+pem prijs voor 4 = 3.45
+vijgenplakken = 3 p.p
+vijg prijs = 1.24 p.s
+bischuitrollen = 2
+prijs rol = 2.67 p.s
+firesteel = 2
+firesteel p = 3.26 p.s
+lucifers = 5
+lucifers p = 0.21 p.s
+vuurstenen = 4
+vuurstenen p = 2.23 p.s
+touw = 20
+touw per 2 meter = 0.59
